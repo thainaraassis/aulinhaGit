@@ -1,7 +1,7 @@
 # 🖥️ aulinha de git e github
 Bem-vindes ao nosso repositório, eletracas^^! Aqui falaremos um pouquinho mais sobre a tarefinha de vocês.
 
-Antes de tudo, certifiquem de já terem lido todo o [guia de instalação](git@github.com:thainaraassis/aulinha-de-git-e-github.git) necessário para essa aulinha.
+Antes de tudo, certifiquem de já terem lido todo o [guia de instalação](https://forum.thunderatz.org/t/aulinha-de-git-para-eletracas/5872?u=erick_das) necessário para essa aulinha.
 
 Aqui também ficará linkado o [slide da aulinha](https://docs.google.com/presentation/d/1oQ0G7yRv8uVV1TDdxT-2mV_2R6OOJY6Z/edit#slide=id.p1) caso queiram consultá-lo.
 
