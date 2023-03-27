@@ -1,1 +1,2 @@
 # 🔌meu hardware favorito
+    O meu hardware favorito é o regulador, ele é o componente responsável por ajustar a tensão no circuito conforme a necessidade, além disso, ele pode vir dos mais diferentes encapsulamentos.
