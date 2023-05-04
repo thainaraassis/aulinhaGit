@@ -12,6 +12,8 @@ Com as branches criadas, vocês devem:
 
 Esperamos que tenham gostado da aulinha e tarefinhas^^.
 
+<div align="center">
+
 ![pikachu](https://cdn.vox-cdn.com/uploads/chorus_asset/file/655222/tumblr_lmpg9jl57d1qfeod9.0.gif)
 
-
+</div>
